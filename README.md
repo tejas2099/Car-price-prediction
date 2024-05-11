@@ -35,7 +35,7 @@ And you are good to go.
 
 ## How this project does?
 
-1. First of all the data was scraped from uncleaned_car.com (https://uncleaned car.com) 
+1. First of all the data was scraped from uncleaned_car.com (https:// uncleaned car.com) 
 
 2. The data was cleaned (it was super unclean :( ) and analysed.
 
